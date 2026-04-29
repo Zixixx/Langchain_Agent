@@ -1,6 +1,7 @@
 # Langchain_Agent
 
-这是一个基于 LangChain 和 DeepSeek API 的混合架构 AI Agent。项目支持工具调用、Python 沙箱、文件操作、pybind11 C++ 算法、RAG 检索、Text-to-SQL、本地记忆窗口和依赖安装申请。
+这是一个基于 LangChain 和 DeepSeek API 的混合架构 AI Agent。
+项目支持工具调用、Python 沙箱、文件操作、pybind11 C++ 算法、RAG 检索、Text-to-SQL、本地记忆窗口和依赖安装申请。
 
 ## 目录结构
 
