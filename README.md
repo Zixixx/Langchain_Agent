@@ -32,6 +32,8 @@ pip install -e .
 
 ### 编辑 `.env`：
 
+将'example.env'重命名为'.env'
+
 ```env
 DEEPSEEK_API_KEY=sk-your-key
 DEEPSEEK_MODEL=deepseek-chat
