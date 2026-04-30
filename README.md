@@ -7,14 +7,14 @@
 
 ```text
 Langchain_agent/
-  agent/            #工具函数
-  data/             #数据库
-  output/           #输出目录
-  main.py           #主程序入口
-  setup.py          #安装脚本
-  pyproject.toml    #项目说明
-  requirements.txt  #依赖清单
-  .env              #环境配置
+  agent/                  #工具函数
+  data/                   #数据库
+  output/                 #输出目录
+  main.py                 #主程序入口
+  setup.py                #安装脚本
+  pyproject.toml          #项目说明
+  requirements.txt        #依赖清单
+  .env                    #环境配置
 ```
 
 ## 快速开始
