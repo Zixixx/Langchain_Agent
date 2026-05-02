@@ -57,7 +57,9 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-### 编辑 `.env`
+### 编辑 `example.env`
+
+请先将该文件重命名为`.env`。
 
 #### 配置 DEEPSEEK_API_KEY
 
