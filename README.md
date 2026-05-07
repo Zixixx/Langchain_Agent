@@ -264,7 +264,7 @@ agent-cli: rag-remove -a paper
 agent-cli: rag-remove -a
 ```
 
-### `rag-delete <source> [rag_id|number]` / `rag-delete -a [rag_id|number]``rag-delete -a [rag_id|number]`
+### `rag-delete <source> [rag_id|number]` / `rag-delete -a [rag_id|number]`
 
 `rag-delete <source> [rag_id|number]` 功能类似 `rag-remove <source> [rag_id|number]`，但如果删除某个 source 后 RAG 库为空，会同时删除这个空库。
 
